@@ -1,3 +1,6 @@
 requests
-xlwings
 python-dotenv
+xlwings
+numpy
+pandas
+scipy
