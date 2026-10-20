@@ -1,0 +1,13 @@
+# API keys
+.env
+
+# Workbook backups made by the script
+backups/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Excel lock files
+~$*
